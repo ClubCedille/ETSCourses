@@ -1,3 +1,6 @@
+# Ne fonctionne plus, car le site internet de l'ÉTS a changé.
+
+---
 # Générateur d'arbre des cours de l'ÉTS - Par CEDILLE
 
 Pour utiliser l'extension il faut l'installer dans un navigateur compatible avec des extensions web (Firefox, Chrome, etc).
